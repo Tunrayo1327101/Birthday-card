@@ -1,0 +1,106 @@
+body{
+    font-family:happy monkey, sams-serif;
+    text-align:center;
+    font-size:20px;
+    color:#ffffff;
+    background: #a2d2ff;
+  }
+  #image{
+    width:200px;
+    border-radius:50%;
+    border:6px solid #EFB0C9;
+  }
+    h1, h2, h4{
+    text-shadow:0px 0px 1 px black;
+    }
+  #header{
+    display:flex ;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+  }
+  #bday-age{
+    background:#EFB0C9;
+    padding:5px 10px;
+    border-radius:10px;
+    margin:5px 0px 10px 0px;
+  }
+  #bday-date{
+    
+    background:#EFB0C9;
+    padding:5px 10px;
+    border-radius:10px;
+    margin:5px 0px 10px 0px;
+  }
+  .gift-img{
+    margin:0 auto;
+    width:400px;
+    height: 400px;
+    background-image:url("https://img.freepik.com/premium-photo/top-view-photo-stack-black-gift-boxes-with-red-ribbon-bow-isolated-red-background-with-copyspace_352249-7027.jpg?w=2000");
+    background-size: cover;
+    border:5px solid white;
+      }
+  }
+  #gift-section{
+     display:flex ;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+  }
+  .one{
+    margin-bottom:10px;
+  }
+  .two{
+    margin-top:0px;
+  }
+  .gift-img:hover{
+    background-image:url(https://chelsweets.com/wp-content/uploads/2019/04/IMG_1029-2-scaled.jpg);
+  }
+  
+  .hot-img{
+    margin:0 auto;
+    width:400px;
+    height: 400px;
+    background-image:url("https://img.freepik.com/premium-photo/top-view-photo-stack-black-gift-boxes-with-red-ribbon-bow-isolated-red-background-with-copyspace_352249-7027.jpg?w=2000");
+    background-size: cover;
+    border:5px solid white;
+      }
+  #hot-img2:hover{
+    background-image:url(https://cdn.lifehack.org/wp-content/uploads/2013/10/things-that-make-you-happy-1024x768.jpeg);
+  }
+  .genius-img{
+    margin:0 auto;
+    width:400px;
+    height: 400px;
+    background-image:url("https://img.freepik.com/premium-photo/top-view-photo-stack-black-gift-boxes-with-red-ribbon-bow-isolated-red-background-with-copyspace_352249-7027.jpg?w=2000");
+    background-size: cover;
+    border:5px solid white;
+      }
+  #genius-img2:hover{
+    background-image:url(https://mayortunes.com/wp-content/uploads/2022/12/1671278121155-300x300.jpg);
+  }
+  .badass-img{
+    margin:0 auto;
+    width:400px;
+    height: 400px;
+    background-image:url("https://img.freepik.com/premium-photo/top-view-photo-stack-black-gift-boxes-with-red-ribbon-bow-isolated-red-background-with-copyspace_352249-7027.jpg?w=2000");
+    background-size: cover;
+    border:5px solid white;
+      }
+  #badass-img2:hover{
+    background-image:url(https://st2.depositphotos.com/2170303/6710/i/950/depositphotos_67105145-stock-photo-strong-woman.jpg);
+  }
+  .cheers-img{
+    margin:0 auto;
+    width:400px;
+    height: 400px;
+    background-image:url("https://img.freepik.com/premium-photo/top-view-photo-stack-black-gift-boxes-with-red-ribbon-bow-isolated-red-background-with-copyspace_352249-7027.jpg?w=2000");
+    background-size: cover;
+    border:5px solid white;
+      }
+  #badass-img-cheers:hover{
+    background-image:url(https://media.istockphoto.com/id/1178741587/photo/celebration-toast-with-champagne.jpg?s=612x612&w=0&k=20&c=7DDPWcPB29jTBr49-48-xMMHYb5yugVhKxzSbrRGV3s=);
+  }
+  .cheers-img-one{
+    height:200px;
+  }
